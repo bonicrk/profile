@@ -11,17 +11,34 @@ I am a Construction Management Professional with working experience in governmen
 4. [Murwillumbah High School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-high-school-upgrade.html) - 15 Million
 5. [Murwillumbah East Public School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-east-public-school-upgrade.html) - 20 Million
 
-Syntax highlighted code block
+### AJW Construction - Contract Administrator
+1. MJ Bale Warringah Mall - 450k
+2. MJ Bale Emporium - 450k
+3. Aldi Mosman 1.5M
+4. Aldi Brookvale 2.5M
+5. Long chim sydney 2M
+6. Azure office fit-out 250k
+7. World square amenities L10 - 200k
+8. Ajw office fit-out 150k
+9. Aldi north richmond 250k
+10. Australia post Fyshwick refurb 350k 
+11. Goodman refurb alexandria 400k
 
-# Header 1
-## Header 2
-### Header 3
+### HPCG - Contract Administrator
+1. [Ballina Coast High School](https://www.schoolinfrastructure.nsw.gov.au/projects/b/ballina-coast-high-school.html) - 54 Million
+2. [Kingscliff Public School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-public-school-upgrade.html) - 25 Million
+3. [Kingscliff High School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-high-school-upgrade.html) - 35 Million
+4. [Murwillumbah High School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-high-school-upgrade.html) - 15 Million
+5. [Murwillumbah East Public School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-east-public-school-upgrade.html) - 20 Million
 
-- Bulleted
-- List
+### Colliers International - Assistant Manager Planning & Coordination
+1. [Ballina Coast High School](https://www.schoolinfrastructure.nsw.gov.au/projects/b/ballina-coast-high-school.html) - 54 Million
+2. [Kingscliff Public School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-public-school-upgrade.html) - 25 Million
+3. [Kingscliff High School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-high-school-upgrade.html) - 35 Million
+4. [Murwillumbah High School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-high-school-upgrade.html) - 15 Million
+5. [Murwillumbah East Public School Upgrade](https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-east-public-school-upgrade.html) - 20 Million
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
