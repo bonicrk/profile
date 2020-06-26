@@ -1,14 +1,18 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/bonicrk/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi There!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Construction Management Professional with working experience in government, retail and residential construction.
 
-### Markdown
+### Schools Infrastructure NSW - Program Officer
+```
+1. https://www.schoolinfrastructure.nsw.gov.au/projects/b/ballina-coast-high-school.html - 54 Million
+2. https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-public-school-upgrade.html - 25 Million
+3. https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-high-school-upgrade.html - 35 Million
+4. https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-high-school-upgrade.html - 15 Million
+5. https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-east-public-school-upgrade.html - 20 Million
+```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
