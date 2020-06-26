@@ -5,13 +5,11 @@ Hi There!
 I am a Construction Management Professional with working experience in government, retail and residential construction.
 
 ### Schools Infrastructure NSW - Program Officer
-```
 1. [Ballina Coast High School](https://www.schoolinfrastructure.nsw.gov.au/projects/b/ballina-coast-high-school.html) - 54 Million
 2. https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-public-school-upgrade.html - 25 Million
 3. https://www.schoolinfrastructure.nsw.gov.au/projects/k/kingscliff-high-school-upgrade.html - 35 Million
 4. https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-high-school-upgrade.html - 15 Million
 5. https://www.schoolinfrastructure.nsw.gov.au/projects/m/murwillumbah-east-public-school-upgrade.html - 20 Million
-```
 
 Syntax highlighted code block
 
